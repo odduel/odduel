@@ -3,7 +3,7 @@
 <img alt="Odduel" src="odduel-wordmark-slip-black-2000.png" width="360">
 </picture>
 
-**Nobody remembers second.**
+**Award-winning creative and technology agency.**
 
 Odduel is a full-service creative and technology agency in Barcelona and São Paulo for companies that play to lead their market. Branding and visual identity, web design and development, e-commerce, app and AI development, content and digital marketing: everything a customer sees before they choose, made so they choose you.
 
